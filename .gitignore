@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+csv-to-parquet/.ipynb_checkpoints
+csv-to-parquet/:wq.DS_Store
