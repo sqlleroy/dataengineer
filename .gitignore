@@ -130,3 +130,5 @@ dmypy.json
 
 csv-to-parquet/.ipynb_checkpoints
 csv-to-parquet/:wq.DS_Store
+.DS_Store
+oracle-to-parquet/.DS_Store
